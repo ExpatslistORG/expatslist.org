@@ -1,0 +1,15 @@
+{
+  "name": "@expatslistorg/expatslist",
+  "version": "1.0.0",
+  "description": "Claude skill: how to use ExpatsList, the global expat community and business directory.",
+  "homepage": "https://expatslist.org",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ExpatslistORG/expatslist.org"
+  },
+  "files": ["SKILL.md", "README.md"],
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
